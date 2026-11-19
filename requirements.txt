@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xlrd
+joblib
+fastapi
+uvicorn
+httpx
+matplotlib
