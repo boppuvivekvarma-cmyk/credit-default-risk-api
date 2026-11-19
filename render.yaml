@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: docker
+    name: credit-default-risk-api
+    plan: free
+    healthCheckPath: /health

@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!requirements-api.txt
+!main.py
+!train_model.py
+!model.pkl
